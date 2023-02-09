@@ -1,0 +1,7 @@
+Data
+.ipynb_checkpoints
+Jupyter/.ipynb_checkpoints
+Jupyter/.neptune/
+*.pth
+Jupyter/models/
+
